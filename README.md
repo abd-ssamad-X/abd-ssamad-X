@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/abd-ssamad-X">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=d29922&fontSize=54&height=90&width=762&text=Hello!%20I'm%20Abdessamad" alt="Hello! I&#39;m Abdessamad" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=ffffff&fontSize=54&height=90&width=762&text=Hello!%20I'm%20Abdessamad" alt="Hello! I&#39;m Abdessamad" />
   </a>
 </p>
 
@@ -33,14 +33,14 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=abd-ssamad-X&show_icons=true&theme=tokyonight&title_color=d29922&icon_color=d29922&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=abd-ssamad-X&layout=compact&theme=tokyonight&title_color=d29922&icon_color=d29922&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=abd-ssamad-X&show_icons=true&theme=tokyonight&title_color=ffffff&icon_color=ffffff&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=abd-ssamad-X&layout=compact&theme=tokyonight&title_color=ffffff&icon_color=ffffff&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=abd-ssamad-X&bg_color=00000000&color=d29922&line=d29922&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+  <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=abd-ssamad-X&bg_color=00000000&color=ffffff&line=ffffff&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
 ### 💭 Dev Quote
